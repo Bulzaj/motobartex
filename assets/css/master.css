@@ -1,0 +1,21 @@
+body {
+    background: #212121;
+}
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+.window-wrapper {
+    padding: 50px;
+    background: #212121;
+}
+#gmap {
+    min-height: 500px;
+}
+#collapseList {
+    position: absolute;
+    z-index: 1;
+}
+.content {
+    position: relative;
+}
